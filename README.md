@@ -2,4 +2,4 @@
 
 I'm a Frontend Engineer i like building things on Web.
 
-<h1 align="center"><a href="https://goblo7.github.io/aes-portfolio/"><img src="https://raw.githubusercontent.com/Goblo7/aes-portfolio/master/public/imgs/icon512.png" margin-top="5rem" width="75px" alt="AE-logo"></a></h1>
+<h1 align="center"><a href="https://goblo7.github.io/aes-portfolio/"><img src="https://raw.githubusercontent.com/Goblo7/aes-portfolio/master/public/imgs/icon512.png" width="75px" alt="AE-logo"></a></h1>
